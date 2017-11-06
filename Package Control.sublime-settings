@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"AutoFileName",
+		"ChineseLocalizations",
+		"GitGutter",
+		"Highlight Trailing Whitespace",
+		"Package Control",
+		"Quick File Creator",
+		"SublimeCodeIntel",
+		"SublimeLinter-jshint",
+		"Theme - Cobalt2",
+		"TypeScript",
+		"TypeScript Syntax",
+		"TypescriptCompletion"
+	]
+}

@@ -1,0 +1,10 @@
+[
+    // F3で関数の宣言元にジャンプ
+    { "keys": ["ctrl+9"], "command": "goto_definition" },
+    // alt+左で戻る
+    { "keys": ["ctrl+8"], "command": "jump_back" },
+    // alt+右で戻ったのをまた進める
+    { "keys": ["ctrl+0"], "command": "jump_forward" },
+    { "keys": ["super+ctrl+o"], "command": "quick_create_file" },
+    { "keys": ["super+ctrl+d"], "command": "quick_create_directory" }
+]
